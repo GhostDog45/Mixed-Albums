@@ -194,12 +194,7 @@ One of the most monumental duets in Bangladeshi musical history, *Ekhon Ami* pai
 - **Artist:** Bassbaba Sumon
 - **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
 
-### 📖 About the Releases
-Rare standalone singles and special studio releases:
-- **Boyosh Holo Amar**: A deeply reflective personal rock ballad examining the passage of time and mortality.
-- **Oniyomer Golpo**: A hard-hitting narrative track driven by intricate bass grooves.
-- **Purano Shei Diner Kotha**: A poignant acoustic re-imagination honoring tradition and memories.
-
+  
 ### 🎵 Tracklist (One-Tap Download)
 
 - [**Boyosh Holo Amar**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Bassbaba%20Sumon%20-%20Boyosh%20Holo%20Amar.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Bassbaba%20Sumon%20-%20Boyosh%20Holo%20Amar.flac?download=true)
