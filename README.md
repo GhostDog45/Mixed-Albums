@@ -61,7 +61,7 @@ Released in 1997 before the formal formation of the band Aurthohin, *Sumon O Aur
 | :---: | :---: |
 | <img src="Bassbaba%20Sumon/Sumon%20O%20Aurthohin/Album%20Cover/Sumon%20O%20Aurthohin%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Bassbaba%20Sumon/Sumon%20O%20Aurthohin/Album%20Cover/Sumon%20O%20Aurthohin%20%5BInset%5D.jpg" width="300" alt="2. Tray Inlay Artwork" /><br><sub><b>2. Tray Inlay Artwork</b></sub> |
 | <img src="Bassbaba%20Sumon/Sumon%20O%20Aurthohin/Album%20Cover/Sumon%20O%20Aurthohin%20%5BCD%5D.jpg" width="300" alt="3. Compact Disc (CD)" /><br><sub><b>3. Compact Disc (CD)</b></sub> | <img src="Bassbaba%20Sumon/Sumon%20O%20Aurthohin/Album%20Cover/Sumon%20O%20Aurthohin%20%5BBack%5D.jpg" width="300" alt="4. Back Cover" /><br><sub><b>4. Back Cover</b></sub> |
-| <img src="Bassbaba%20Sumon/Sumon%20O%20Aurthohin/Album%20Cover/Sumon%20O%20Aurthohin%20%5BHyenar%20Ottohashi%5D.jpg" width="300" alt="5. Hyenar Ottohashi Artwork" /><br><sub><b>5. Hyenar Ottohashi Artwork</b></sub> |  |
+| <img src="Bassbaba%20Sumon/Sumon%20O%20Aurthohin/Album%20Cover/Sumon%20O%20Aurthohin%20%5BHyenar%20Ottohashi%5D.jpg" width="300" alt="5. Sumon O Aurthohin [Hyenar Ottohashi]" /><br><sub><b>5. Sumon O Aurthohin [Hyenar Ottohashi]</b></sub> |  |
 
 ---
 
@@ -100,7 +100,7 @@ Released in 2005, *Megher Deshe* ("In the Land of Clouds") is Bassbaba Sumon's i
 | <img src="Bassbaba%20Sumon/Megher%20Deshe/Album%20Cover/Megher%20Deshe%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Bassbaba%20Sumon/Megher%20Deshe/Album%20Cover/Megher%20Deshe%20%5BInset-1%5D.jpg" width="300" alt="2. Inset (Part 1)" /><br><sub><b>2. Inset (Part 1)</b></sub> |
 | <img src="Bassbaba%20Sumon/Megher%20Deshe/Album%20Cover/Megher%20Deshe%20%5BInset-2%5D.jpg" width="300" alt="3. Inset (Part 2)" /><br><sub><b>3. Inset (Part 2)</b></sub> | <img src="Bassbaba%20Sumon/Megher%20Deshe/Album%20Cover/Megher%20Deshe%20%5BInset-3%5D.jpg" width="300" alt="4. Inset (Part 3)" /><br><sub><b>4. Inset (Part 3)</b></sub> |
 | <img src="Bassbaba%20Sumon/Megher%20Deshe/Album%20Cover/Megher%20Deshe%20%5BInset-4%5D.jpg" width="300" alt="5. Inset (Part 4)" /><br><sub><b>5. Inset (Part 4)</b></sub> | <img src="Bassbaba%20Sumon/Megher%20Deshe/Album%20Cover/Megher%20Deshe%20%5BCD%5D.jpg" width="300" alt="6. Compact Disc (CD)" /><br><sub><b>6. Compact Disc (CD)</b></sub> |
-| <img src="Bassbaba%20Sumon/Megher%20Deshe/Album%20Cover/Megher%20Deshe%20%5BBack%5D.jpg" width="300" alt="7. Back Cover" /><br><sub><b>7. Back Cover</b></sub> | <img src="Bassbaba%20Sumon/Megher%20Deshe/Album%20Cover/folder.jpg" width="300" alt="8. Cover Slipcase" /><br><sub><b>8. Cover Slipcase</b></sub> |
+| <img src="Bassbaba%20Sumon/Megher%20Deshe/Album%20Cover/Megher%20Deshe%20%5BBack%5D.jpg" width="300" alt="7. Back Cover" /><br><sub><b>7. Back Cover</b></sub> | <img src="Bassbaba%20Sumon/Megher%20Deshe/Album%20Cover/folder.jpg" width="300" alt="8. folder" /><br><sub><b>8. folder</b></sub> |
 
 ---
 
@@ -145,7 +145,7 @@ Released in 2005, *Megher Deshe* ("In the Land of Clouds") is Bassbaba Sumon's i
 | :---: | :---: |
 | <img src="Bassbaba%20Sumon/Boka%20Manushta/Album%20Cover/Boka%20Manushta%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Bassbaba%20Sumon/Boka%20Manushta/Album%20Cover/Boka%20Manushta%20%5BInset-1%5D.jpg" width="300" alt="2. Inset (Part 1)" /><br><sub><b>2. Inset (Part 1)</b></sub> |
 | <img src="Bassbaba%20Sumon/Boka%20Manushta/Album%20Cover/Boka%20Manushta%20%5BInset-2%5D.jpg" width="300" alt="3. Inset (Part 2)" /><br><sub><b>3. Inset (Part 2)</b></sub> | <img src="Bassbaba%20Sumon/Boka%20Manushta/Album%20Cover/Boka%20Manushta%20%5BInset-3%5D.jpg" width="300" alt="4. Inset (Part 3)" /><br><sub><b>4. Inset (Part 3)</b></sub> |
-| <img src="Bassbaba%20Sumon/Boka%20Manushta/Album%20Cover/Boka%20Manushta%20%5BInset-4%5D.jpg" width="300" alt="4. Inset (Part 4)" /><br><sub><b>4. Inset (Part 4)</b></sub> | <img src="Bassbaba%20Sumon/Boka%20Manushta/Album%20Cover/Boka%20Manushta%20%5BBack%5D.jpg" width="300" alt="5. Back Cover" /><br><sub><b>5. Back Cover</b></sub> |
+| <img src="Bassbaba%20Sumon/Boka%20Manushta/Album%20Cover/Boka%20Manushta%20%5BInset-4%5D.jpg" width="300" alt="5. Inset (Part 4)" /><br><sub><b>5. Inset (Part 4)</b></sub> | <img src="Bassbaba%20Sumon/Boka%20Manushta/Album%20Cover/Boka%20Manushta%20%5BBack%5D.jpg" width="300" alt="6. Back Cover" /><br><sub><b>6. Back Cover</b></sub> |
 
 ---
 
@@ -182,9 +182,9 @@ One of the most monumental duets in Bangladeshi musical history, *Ekhon Ami* pai
 
 | | |
 | :---: | :---: |
-| <img src="Bassbaba%20Sumon/Ekhon%20Ami/Album%20Cover/Ekhon%2BAmi%2B-5BArtwork-5D.jpg" width="300" alt="1. Cover Artwork" /><br><sub><b>1. Cover Artwork</b></sub> | <img src="Bassbaba%20Sumon/Ekhon%20Ami/Album%20Cover/Ekhon%20Ami%20%5BFront-Back%5D.jpg" width="300" alt="2. Outer Slipcase (Front & Back)" /><br><sub><b>2. Outer Slipcase (Front & Back)</b></sub> |
-| <img src="Bassbaba%20Sumon/Ekhon%20Ami/Album%20Cover/Ekhon%20Ami%20%5BLyrics%5D.jpg" width="300" alt="3. Booklet & Lyrics" /><br><sub><b>3. Booklet & Lyrics</b></sub> | <img src="Bassbaba%20Sumon/Ekhon%20Ami/Album%20Cover/Ekhon%20Ami%20%5BInlay-1%5D.jpg" width="300" alt="4. Tray Inlay (Part 1)" /><br><sub><b>4. Tray Inlay (Part 1)</b></sub> |
-| <img src="Bassbaba%20Sumon/Ekhon%20Ami/Album%20Cover/Ekhon%20Ami%20%5BInlay-2%5D.jpg" width="300" alt="5. Tray Inlay (Part 2)" /><br><sub><b>5. Tray Inlay (Part 2)</b></sub> | <img src="Bassbaba%20Sumon/Ekhon%20Ami/Album%20Cover/Ekhon%20Ami%20%5BCD%5D.jpg" width="300" alt="6. Compact Disc (CD)" /><br><sub><b>6. Compact Disc (CD)</b></sub> |
+| <img src="Bassbaba%20Sumon/Ekhon%20Ami/Album%20Cover/Ekhon%20Ami%20%5BFront-Back%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Bassbaba%20Sumon/Ekhon%20Ami/Album%20Cover/Ekhon%2BAmi%2B-5BArtwork-5D.jpg" width="300" alt="2. Gatefold Artwork" /><br><sub><b>2. Gatefold Artwork</b></sub> |
+| <img src="Bassbaba%20Sumon/Ekhon%20Ami/Album%20Cover/Ekhon%20Ami%20%5BLyrics%5D.jpg" width="300" alt="3. Booklet & Lyrics" /><br><sub><b>3. Booklet & Lyrics</b></sub> | <img src="Bassbaba%20Sumon/Ekhon%20Ami/Album%20Cover/Ekhon%20Ami%20%5BInlay-1%5D.jpg" width="300" alt="4. Inlay (Part 1)" /><br><sub><b>4. Inlay (Part 1)</b></sub> |
+| <img src="Bassbaba%20Sumon/Ekhon%20Ami/Album%20Cover/Ekhon%20Ami%20%5BInlay-2%5D.jpg" width="300" alt="5. Inlay (Part 2)" /><br><sub><b>5. Inlay (Part 2)</b></sub> | <img src="Bassbaba%20Sumon/Ekhon%20Ami/Album%20Cover/Ekhon%20Ami%20%5BCD%5D.jpg" width="300" alt="6. Compact Disc (CD)" /><br><sub><b>6. Compact Disc (CD)</b></sub> |
 
 ---
 
